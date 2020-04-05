@@ -1,0 +1,34 @@
+xair_device = "USB Uno"
+level = 5
+
+[[ scene ]]
+
+    [[ scene.channel ]]
+    channel = 1
+    bus = 1
+    level = 5
+
+    [[ scene.channel ]]
+    channel = 3
+    bus = 1
+    level = 5
+
+    [[ scene.channel ]]
+    channel = 5
+    bus = 1
+    level = 5
+
+    [[ scene.channel ]]
+    channel = 6
+    bus = 1
+    level = 5
+
+[[ scene ]]
+
+    [[ scene.channel ]]
+    channel = 1
+    bus = 0
+
+    [[ scene.channel ]]
+    channel = 2
+    bus = 0
